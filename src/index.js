@@ -1,6 +1,7 @@
 import React from 'react'
 import ReactDOM from 'react-dom/client'
 import './styles/index.css'
+import 'grapesjs/dist/css/grapes.min.css'
 import { BrowserRouter } from 'react-router-dom'
 import reportWebVitals from './reportWebVitals'
 import Routes from './routes'
